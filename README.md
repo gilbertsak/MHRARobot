@@ -1,2 +1,2 @@
 # MHRARobot
-Robot with an alert box
+HTML and JS Grid and Robot controls by JS prompts
